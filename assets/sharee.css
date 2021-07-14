@@ -1,0 +1,266 @@
+body {
+    font-size: 14px;
+    font-family: 'poppins', sans-serif;
+    font-weight: normal;
+    margin-top: 25px;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.navbar {
+    background-color: #ececf0;
+}
+
+a {
+    color: black;
+    padding: 11px 15px;
+
+}
+
+a:hover {
+    color: green;
+    text-decoration: none
+}
+
+.carousel-caption {
+    text-align: left;
+    color: black;
+
+}
+
+.carousel-inner {
+    background-color: #ececf0;
+}
+
+.carousel-caption span {
+    font-size: 41px;
+}
+
+.carousel-caption h1 {
+    font-size: 55px;
+    color: green;
+
+}
+
+.carousel-inner > .carousel-item > img {
+    height: 100vh;
+}
+
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 30px;
+    display: block;
+}
+
+.carousel-inner {
+    padding-top: 50px;
+}
+
+.about h2 {
+    font-weight: bold;
+    color: #fff;
+    line-height: 40px;
+    font-size: 45px;
+    text-transform: uppercase;
+    background: #547d13;
+    display: inline-block;
+    padding: 20px 30px;
+    margin-top: 40px;
+}
+
+.about p {
+    font-size: 17px;
+    line-height: 28px;
+    color: #000;
+    padding: 40px 0px;
+}
+
+.about img {
+    height: auto;
+}
+
+.about {
+    background-color: #fff;
+    box-shadow: #ddd 0px 0px 13px 5px;
+    margin: 90px 30px 20px 30px;
+}
+
+.about .read {
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+
+.title h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.title h2 strong {
+    color: green;
+}
+
+.vege {
+    padding-right: 75px;
+    padding-left: 75px;
+    position: relative;
+}
+
+.vege p {
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.vege .vimg {
+    position: absolute;
+    top: 260px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+.clients_red {
+    margin-top: 300px;
+    background-image: url(img/test.png);
+    padding: 90px 90px;
+    position: relative;
+
+}
+
+.tes_he {
+    position: absolute;
+    right: 110px;
+    top: 10px;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.tes {
+    padding: 60px 40px;
+    background-color: #428713cc;
+
+}
+
+.tes p {
+    font-size: 14px;
+    margin-top: 10px;
+    color: white;
+}
+
+.tes h3 {
+    color: white;
+}
+
+.contact {
+    background-image: url(img/banner2.png);
+    background-position: center;
+    display: block;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.contact h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.ro_con {
+    margin: 30px 80px;
+    box-shadow: #ddd 0px 0px 13px 5px;
+}
+
+.ro_con .f_column {
+    padding: 25px;
+    background-color: white;
+}
+
+.send {
+    background-color: green;
+    float: right;
+    width: 150px;
+    border-style: none;
+    height: 50px;
+}
+
+.send:hover {
+    background-color: orange;
+}
+
+.map-container {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.footer {
+    background-color: #3b3b3b;
+}
+
+.subscribe {
+    padding: 20px 20px;
+    margin-left: 70px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.ft_img {
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.none {
+    list-style: none;
+    text-align: left;
+}
+
+.none a {
+    text-decoration: none;
+    color: white;
+}
+
+.none a:hover {
+    color: yellow;
+}
+
+.none h3 {
+    color: white;
+}
+
+.subs {
+    background-color: green;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 80px;
+}
+
+.copyright {
+    background-color: green;
+    height: 60px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.hovp:hover {
+    color: yellow;
+}
